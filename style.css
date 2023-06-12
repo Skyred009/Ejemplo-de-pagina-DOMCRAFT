@@ -343,6 +343,17 @@ footer{
     .servicio-ind img{
         width: 90%;
     }
+    .texto-formulario h1{
+    width: 95%;
+    height: 100%;
+    text-align:center;
+    }   
+    .texto-formulario h2{
+        width: 95%;
+        height: 100%;
+        text-align: center;
+        padding-bottom: 100px;
+    }
 
 }
 
@@ -385,8 +396,15 @@ footer{
     .cards .tarjeta img{
         width: 90px;
         height: 90px;
-    }
+    } 
+    .texto-formulario h1{
+        width: 95%;
+    }   
+    .texto-formulario h2{
+        width: 95%;
+     }
 }
+
 /* Card de la galeria agendas*/
 .card{
     background-color:  #FFF4E1;
