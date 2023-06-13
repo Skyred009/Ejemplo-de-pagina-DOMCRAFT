@@ -398,20 +398,20 @@ footer{
         height: 90px;
     } 
     .texto-formulario h1{
-        width: 95%;
+        font-size: 30px
     }   
     .texto-formulario h2{
-        width: 95%;
+        font-size: 30px;
      }
 }
 
 /* Card de la galeria agendas*/
 .card{
     background-color:  #FFF4E1;
-    width: 65%;
+    width: 30%;
 }
 .card > img{
-    width: 100%;
+    width: 50%;
     height: 100%;
 
 }
