@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "sass": "^1.63.6"
+  },
+  "name": "preentrega2-mite",
+  "description": "Este repo contiene la pre entrega 2 del proyecto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
