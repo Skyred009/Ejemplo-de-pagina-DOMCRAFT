@@ -138,9 +138,9 @@ main .sobre-nosotros{
     border-radius: 50%;
     display: inline-block;
     text-align: center;
-    width: 30px;
-    height: 30px;
-    padding: 5px;
+    width: 60px;
+    height: 60px;
+    padding: 50px;
     box-shadow: 0 0 6px rgba(0, 0, 0, .5);
     margin-right: 5px;
 }
@@ -400,6 +400,8 @@ footer{
     .textos-header h2{
         font-size: 20px;
     }
+  
+
 
     /*about us */
     .imagen-about-us{
@@ -746,4 +748,14 @@ $lista-item-color: #555;
       }
     }
   }
+
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
   
+  .card {
+    width: 300px;
+    margin: 10px;
+  }
